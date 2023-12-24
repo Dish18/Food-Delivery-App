@@ -1,11 +1,11 @@
-Food Fire:
+# Food Fire:
 
 Order food from the confort of your home, we show the latest restaurants available in your city, with all the details. Pick a dish, add to cart, place order, get delivered.
 
 
 
 
-Tech - Stack:
+# Tech - Stack:
 
 1.Frontend Library: React JS
 2.Styling: Tailwind CSS
@@ -17,7 +17,7 @@ Tech - Stack:
 
 
 
-Working of project:
+# Working of project:
 
 We fetch the restaurants of your city from Swiggy API, getting the live data.
 Display them with Area name, Cuisines Category and Ratings.
@@ -30,7 +30,7 @@ Place Order.
 
 
 
-Improvements to make:
+# Improvements to make:
 
 Not responsive for Mobile phones
 Cart data is not stored anywhere, it should be in local storage for not logged in users to avoid losing on refresh page.
@@ -42,7 +42,7 @@ How to run on your local
 
 
 
-Clone the repository:
+# Clone the repository:
 
 Run npm init
 
